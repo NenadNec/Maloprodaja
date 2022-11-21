@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Nenad\\maloprodaja\\Maloprodaja.csproj": {}
+    "C:\\Nenad\\MaloprodajaTest\\Maloprodaja.csproj": {}
   },
   "projects": {
-    "C:\\Nenad\\maloprodaja\\Maloprodaja.csproj": {
+    "C:\\Nenad\\MaloprodajaTest\\Maloprodaja.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Nenad\\maloprodaja\\Maloprodaja.csproj",
+        "projectUniqueName": "C:\\Nenad\\MaloprodajaTest\\Maloprodaja.csproj",
         "projectName": "Maloprodaja",
-        "projectPath": "C:\\Nenad\\maloprodaja\\Maloprodaja.csproj",
+        "projectPath": "C:\\Nenad\\MaloprodajaTest\\Maloprodaja.csproj",
         "packagesPath": "C:\\Users\\GS-005\\.nuget\\packages\\",
-        "outputPath": "C:\\Nenad\\maloprodaja\\obj\\",
+        "outputPath": "C:\\Nenad\\MaloprodajaTest\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

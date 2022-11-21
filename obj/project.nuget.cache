@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "EU2gfNcxXTddE0/QrQS86a2sZtXCG2UnyUAyt1GU6jjPCs1J+NC9nY3iyefJ0P/mi3uYQuxVTSvVHX7EGXJMTQ==",
+  "dgSpecHash": "QRYBl0ptwamwZrWQ5KD3BsobMPhgLxCdmh19CNeG12ni9f8vzp/eUV5nmo0Xpk/9V7xjLClAgsu0cevBDgoD5A==",
   "success": true,
-  "projectFilePath": "C:\\Nenad\\maloprodaja\\Maloprodaja.csproj",
+  "projectFilePath": "C:\\Nenad\\MaloprodajaTest\\Maloprodaja.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\GS-005\\.nuget\\packages\\closedxml\\0.96.0\\closedxml.0.96.0.nupkg.sha512",
     "C:\\Users\\GS-005\\.nuget\\packages\\documentformat.openxml\\2.16.0\\documentformat.openxml.2.16.0.nupkg.sha512",
